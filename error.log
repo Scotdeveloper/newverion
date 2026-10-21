@@ -1,0 +1,281 @@
+[10-May-2026 12:31:50 UTC] PHP Warning:  Constant SMTP_HOST already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 6
+[10-May-2026 12:31:50 UTC] PHP Stack trace:
+[10-May-2026 12:31:50 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:31:50 UTC] PHP Warning:  Constant SMTP_PORT already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 7
+[10-May-2026 12:31:50 UTC] PHP Stack trace:
+[10-May-2026 12:31:50 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:31:50 UTC] PHP Warning:  Constant SMTP_SECURE already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 8
+[10-May-2026 12:31:50 UTC] PHP Stack trace:
+[10-May-2026 12:31:50 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:31:50 UTC] PHP Warning:  Constant SMTP_USER already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 9
+[10-May-2026 12:31:50 UTC] PHP Stack trace:
+[10-May-2026 12:31:50 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:31:50 UTC] PHP Warning:  Constant SMTP_PASS already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 10
+[10-May-2026 12:31:50 UTC] PHP Stack trace:
+[10-May-2026 12:31:50 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:31:50 UTC] PHP Warning:  Constant SMTP_FROM already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 11
+[10-May-2026 12:31:50 UTC] PHP Stack trace:
+[10-May-2026 12:31:50 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:31:50 UTC] PHP Warning:  Constant SMTP_FROM_NAME already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 12
+[10-May-2026 12:31:50 UTC] PHP Stack trace:
+[10-May-2026 12:31:50 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:35:43 UTC] PHP Warning:  Constant SMTP_HOST already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 6
+[10-May-2026 12:35:43 UTC] PHP Stack trace:
+[10-May-2026 12:35:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:35:43 UTC] PHP Warning:  Constant SMTP_PORT already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 7
+[10-May-2026 12:35:43 UTC] PHP Stack trace:
+[10-May-2026 12:35:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:35:43 UTC] PHP Warning:  Constant SMTP_SECURE already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 8
+[10-May-2026 12:35:43 UTC] PHP Stack trace:
+[10-May-2026 12:35:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:35:43 UTC] PHP Warning:  Constant SMTP_USER already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 9
+[10-May-2026 12:35:43 UTC] PHP Stack trace:
+[10-May-2026 12:35:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:35:43 UTC] PHP Warning:  Constant SMTP_PASS already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 10
+[10-May-2026 12:35:43 UTC] PHP Stack trace:
+[10-May-2026 12:35:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:35:43 UTC] PHP Warning:  Constant SMTP_FROM already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 11
+[10-May-2026 12:35:43 UTC] PHP Stack trace:
+[10-May-2026 12:35:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:35:43 UTC] PHP Warning:  Constant SMTP_FROM_NAME already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 12
+[10-May-2026 12:35:43 UTC] PHP Stack trace:
+[10-May-2026 12:35:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:25 UTC] PHP Warning:  Constant SMTP_HOST already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 6
+[10-May-2026 12:42:25 UTC] PHP Stack trace:
+[10-May-2026 12:42:25 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:25 UTC] PHP Warning:  Constant SMTP_PORT already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 7
+[10-May-2026 12:42:25 UTC] PHP Stack trace:
+[10-May-2026 12:42:25 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:25 UTC] PHP Warning:  Constant SMTP_SECURE already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 8
+[10-May-2026 12:42:25 UTC] PHP Stack trace:
+[10-May-2026 12:42:25 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:25 UTC] PHP Warning:  Constant SMTP_USER already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 9
+[10-May-2026 12:42:25 UTC] PHP Stack trace:
+[10-May-2026 12:42:25 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:25 UTC] PHP Warning:  Constant SMTP_PASS already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 10
+[10-May-2026 12:42:25 UTC] PHP Stack trace:
+[10-May-2026 12:42:25 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:25 UTC] PHP Warning:  Constant SMTP_FROM already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 11
+[10-May-2026 12:42:25 UTC] PHP Stack trace:
+[10-May-2026 12:42:25 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:25 UTC] PHP Warning:  Constant SMTP_FROM_NAME already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 12
+[10-May-2026 12:42:25 UTC] PHP Stack trace:
+[10-May-2026 12:42:25 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:59 UTC] PHP Warning:  Constant SMTP_HOST already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 6
+[10-May-2026 12:42:59 UTC] PHP Stack trace:
+[10-May-2026 12:42:59 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:59 UTC] PHP Warning:  Constant SMTP_PORT already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 7
+[10-May-2026 12:42:59 UTC] PHP Stack trace:
+[10-May-2026 12:42:59 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:59 UTC] PHP Warning:  Constant SMTP_SECURE already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 8
+[10-May-2026 12:42:59 UTC] PHP Stack trace:
+[10-May-2026 12:42:59 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:59 UTC] PHP Warning:  Constant SMTP_USER already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 9
+[10-May-2026 12:42:59 UTC] PHP Stack trace:
+[10-May-2026 12:42:59 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:59 UTC] PHP Warning:  Constant SMTP_PASS already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 10
+[10-May-2026 12:42:59 UTC] PHP Stack trace:
+[10-May-2026 12:42:59 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:59 UTC] PHP Warning:  Constant SMTP_FROM already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 11
+[10-May-2026 12:42:59 UTC] PHP Stack trace:
+[10-May-2026 12:42:59 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:42:59 UTC] PHP Warning:  Constant SMTP_FROM_NAME already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 12
+[10-May-2026 12:42:59 UTC] PHP Stack trace:
+[10-May-2026 12:42:59 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:43:45 UTC] PHP Warning:  Constant SMTP_HOST already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 6
+[10-May-2026 12:43:45 UTC] PHP Stack trace:
+[10-May-2026 12:43:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:43:45 UTC] PHP Warning:  Constant SMTP_PORT already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 7
+[10-May-2026 12:43:45 UTC] PHP Stack trace:
+[10-May-2026 12:43:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:43:45 UTC] PHP Warning:  Constant SMTP_SECURE already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 8
+[10-May-2026 12:43:45 UTC] PHP Stack trace:
+[10-May-2026 12:43:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:43:45 UTC] PHP Warning:  Constant SMTP_USER already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 9
+[10-May-2026 12:43:45 UTC] PHP Stack trace:
+[10-May-2026 12:43:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:43:45 UTC] PHP Warning:  Constant SMTP_PASS already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 10
+[10-May-2026 12:43:45 UTC] PHP Stack trace:
+[10-May-2026 12:43:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:43:45 UTC] PHP Warning:  Constant SMTP_FROM already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 11
+[10-May-2026 12:43:45 UTC] PHP Stack trace:
+[10-May-2026 12:43:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:43:45 UTC] PHP Warning:  Constant SMTP_FROM_NAME already defined in C:\wamp64\www\assembly\assembly\forgot_password.php on line 12
+[10-May-2026 12:43:45 UTC] PHP Stack trace:
+[10-May-2026 12:43:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\forgot_password.php:0
+[10-May-2026 12:58:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'age' in 'where clause' in C:\wamp64\www\assembly\assembly\members.php:113
+Stack trace:
+#0 C:\wamp64\www\assembly\assembly\members.php(113): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in C:\wamp64\www\assembly\assembly\members.php on line 113
+[10-May-2026 13:09:37 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'age' in 'where clause' in C:\wamp64\www\assembly\assembly\members.php:113
+Stack trace:
+#0 C:\wamp64\www\assembly\assembly\members.php(113): PDO->query('SELECT COUNT(*)...')
+#1 {main}
+  thrown in C:\wamp64\www\assembly\assembly\members.php on line 113
+[10-May-2026 14:46:20 UTC] PHP Warning:  Undefined array key "last_name" in C:\wamp64\www\assembly\assembly\index.php on line 147
+[10-May-2026 14:46:20 UTC] PHP Stack trace:
+[10-May-2026 14:46:20 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\index.php:0
+[10-May-2026 14:47:43 UTC] PHP Warning:  Undefined array key "last_name" in C:\wamp64\www\assembly\assembly\members.php on line 317
+[10-May-2026 14:47:43 UTC] PHP Stack trace:
+[10-May-2026 14:47:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\members.php:0
+[10-May-2026 14:47:43 UTC] PHP Warning:  Undefined array key "last_name" in C:\wamp64\www\assembly\assembly\members.php on line 330
+[10-May-2026 14:47:43 UTC] PHP Stack trace:
+[10-May-2026 14:47:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\members.php:0
+[10-May-2026 14:47:43 UTC] PHP Deprecated:  substr(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\assembly\assembly\members.php on line 330
+[10-May-2026 14:47:43 UTC] PHP Stack trace:
+[10-May-2026 14:47:43 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\members.php:0
+[10-May-2026 14:47:43 UTC] PHP   2. substr($string = NULL, $offset = 0, $length = 1) C:\wamp64\www\assembly\assembly\members.php:330
+[10-May-2026 15:08:14 UTC] PHP Warning:  Undefined array key "last_name" in C:\wamp64\www\assembly\assembly\members.php on line 379
+[10-May-2026 15:08:14 UTC] PHP Stack trace:
+[10-May-2026 15:08:14 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\members.php:0
+[10-May-2026 19:48:05 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\wamp64\www\assembly\assembly\mpesa_config.php on line 36
+[10-May-2026 19:48:05 UTC] PHP Stack trace:
+[10-May-2026 19:48:05 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\mpesa_stk_push.php:0
+[10-May-2026 19:48:05 UTC] PHP   2. getMpesaAccessToken() C:\wamp64\www\assembly\assembly\mpesa_stk_push.php:70
+[10-May-2026 19:53:35 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\wamp64\www\assembly\assembly\mpesa_config.php on line 36
+[10-May-2026 19:53:35 UTC] PHP Stack trace:
+[10-May-2026 19:53:35 UTC] PHP   1. {main}() C:\wamp64\www\assembly\assembly\mpesa_stk_push.php:0
+[10-May-2026 19:53:35 UTC] PHP   2. getMpesaAccessToken() C:\wamp64\www\assembly\assembly\mpesa_stk_push.php:70
+[14-Jul-2026 06:18:20 UTC] PHP Warning:  Undefined array key "first_name" in C:\wamp64\www\assembly\index.php on line 146
+[14-Jul-2026 06:18:20 UTC] PHP Stack trace:
+[14-Jul-2026 06:18:20 UTC] PHP   1. {main}() C:\wamp64\www\assembly\index.php:0
+[14-Jul-2026 06:18:20 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\assembly\index.php on line 146
+[14-Jul-2026 06:18:20 UTC] PHP Stack trace:
+[14-Jul-2026 06:18:20 UTC] PHP   1. {main}() C:\wamp64\www\assembly\index.php:0
+[14-Jul-2026 06:18:20 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\assembly\index.php:146
+[14-Jul-2026 06:19:45 UTC] PHP Warning:  Undefined array key "first_name" in C:\wamp64\www\assembly\members.php on line 331
+[14-Jul-2026 06:19:45 UTC] PHP Stack trace:
+[14-Jul-2026 06:19:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\members.php:0
+[14-Jul-2026 06:19:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\assembly\members.php on line 358
+[14-Jul-2026 06:19:45 UTC] PHP Stack trace:
+[14-Jul-2026 06:19:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\members.php:0
+[14-Jul-2026 06:19:45 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\assembly\members.php:358
+[14-Jul-2026 06:19:45 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\assembly\members.php on line 408
+[14-Jul-2026 06:19:45 UTC] PHP Stack trace:
+[14-Jul-2026 06:19:45 UTC] PHP   1. {main}() C:\wamp64\www\assembly\members.php:0
+[14-Jul-2026 06:19:45 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\assembly\members.php:408
+[14-Jul-2026 18:24:46 Africa/Nairobi] PHP Warning:  require_once(C:\wamp64\www\assembly\uploads/../config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\assembly\uploads\db.php on line 6
+[14-Jul-2026 18:24:46 Africa/Nairobi] PHP Stack trace:
+[14-Jul-2026 18:24:46 Africa/Nairobi] PHP   1. {main}() C:\wamp64\www\assembly\uploads\index.php:0
+[14-Jul-2026 18:24:46 Africa/Nairobi] PHP   2. require_once() C:\wamp64\www\assembly\uploads\index.php:7
+[14-Jul-2026 18:24:46 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\assembly\uploads/../config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\assembly\uploads\db.php:6
+Stack trace:
+#0 C:\wamp64\www\assembly\uploads\index.php(7): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\assembly\uploads\db.php on line 6
+[14-Jul-2026 18:27:25 Africa/Nairobi] PHP Warning:  require_once(config/config.php): Failed to open stream: No such file or directory in C:\wamp64\www\assembly\uploads\db.php on line 6
+[14-Jul-2026 18:27:25 Africa/Nairobi] PHP Stack trace:
+[14-Jul-2026 18:27:25 Africa/Nairobi] PHP   1. {main}() C:\wamp64\www\assembly\uploads\index.php:0
+[14-Jul-2026 18:27:25 Africa/Nairobi] PHP   2. require_once() C:\wamp64\www\assembly\uploads\index.php:7
+[14-Jul-2026 18:27:25 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'config/config.php' (include_path='.;C:\php\pear') in C:\wamp64\www\assembly\uploads\db.php:6
+Stack trace:
+#0 C:\wamp64\www\assembly\uploads\index.php(7): require_once()
+#1 {main}
+  thrown in C:\wamp64\www\assembly\uploads\db.php on line 6
+[14-Jul-2026 18:27:54 Africa/Nairobi] PHP Parse error:  syntax error, unexpected token "use" in C:\wamp64\www\assembly\uploads\functions.php on line 213
+[14-Jul-2026 18:28:50 Africa/Nairobi] PHP Parse error:  syntax error, unexpected token "use" in C:\wamp64\www\assembly\uploads\functions.php on line 213
+[14-Jul-2026 18:28:52 Africa/Nairobi] PHP Parse error:  syntax error, unexpected token "use" in C:\wamp64\www\assembly\uploads\functions.php on line 213
+[14-Jul-2026 18:28:52 Africa/Nairobi] PHP Parse error:  syntax error, unexpected token "use" in C:\wamp64\www\assembly\uploads\functions.php on line 213
+[14-Jul-2026 18:28:53 Africa/Nairobi] PHP Parse error:  syntax error, unexpected token "use" in C:\wamp64\www\assembly\uploads\functions.php on line 213
+[14-Jul-2026 18:28:53 Africa/Nairobi] PHP Parse error:  syntax error, unexpected token "use" in C:\wamp64\www\assembly\uploads\functions.php on line 213
+[14-Jul-2026 18:30:17 Africa/Nairobi] PHP Warning:  require_once(C:\wamp64\www\assembly\uploads/../pages/login.php): Failed to open stream: No such file or directory in C:\wamp64\www\assembly\uploads\index.php on line 77
+[14-Jul-2026 18:30:17 Africa/Nairobi] PHP Stack trace:
+[14-Jul-2026 18:30:17 Africa/Nairobi] PHP   1. {main}() C:\wamp64\www\assembly\uploads\index.php:0
+[14-Jul-2026 18:30:17 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\assembly\uploads/../pages/login.php' (include_path='.;C:\php\pear') in C:\wamp64\www\assembly\uploads\index.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\assembly\uploads\index.php on line 77
+[14-Jul-2026 18:31:00 Africa/Nairobi] PHP Warning:  require_once(C:\wamp64\www\assembly\uploads/../pageslogin.php): Failed to open stream: No such file or directory in C:\wamp64\www\assembly\uploads\index.php on line 77
+[14-Jul-2026 18:31:00 Africa/Nairobi] PHP Stack trace:
+[14-Jul-2026 18:31:00 Africa/Nairobi] PHP   1. {main}() C:\wamp64\www\assembly\uploads\index.php:0
+[14-Jul-2026 18:31:00 Africa/Nairobi] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\wamp64\www\assembly\uploads/../pageslogin.php' (include_path='.;C:\php\pear') in C:\wamp64\www\assembly\uploads\index.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\assembly\uploads\index.php on line 77
+[15-Jul-2026 19:10:30 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in C:\wamp64\www\assembly\forgot_password.php:68
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\assembly\forgot_password.php on line 68
+[15-Jul-2026 19:11:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in C:\wamp64\www\assembly\forgot_password.php:68
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\assembly\forgot_password.php on line 68
+[15-Jul-2026 19:13:31 UTC] Password reset email sent successfully to: johnmachariamwangi123@gmail.com
+[15-Jul-2026 19:16:29 UTC] Password reset email sent successfully to: johnmachariamwangi123@gmail.com
+[16-Jul-2026 12:10:20 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[16-Jul-2026 12:10:20 America/New_York] PHPMailer files missing. Check installation.
+[16-Jul-2026 12:10:29 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[16-Jul-2026 12:10:29 America/New_York] PHPMailer files missing. Check installation.
+[16-Jul-2026 12:13:20 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[16-Jul-2026 12:13:20 America/New_York] PHPMailer files missing. Check installation.
+[16-Jul-2026 12:13:28 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[16-Jul-2026 12:13:28 America/New_York] PHPMailer files missing. Check installation.
+[16-Jul-2026 12:13:34 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[16-Jul-2026 12:13:34 America/New_York] PHPMailer files missing. Check installation.
+[16-Jul-2026 12:13:42 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[16-Jul-2026 12:13:42 America/New_York] PHPMailer files missing. Check installation.
+[16-Jul-2026 12:13:48 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[16-Jul-2026 12:13:48 America/New_York] PHPMailer files missing. Check installation.
+[25-Jul-2026 15:35:58 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[25-Jul-2026 15:35:58 America/New_York] PHPMailer files missing. Check installation.
+[25-Jul-2026 15:36:06 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[25-Jul-2026 15:36:06 America/New_York] PHPMailer files missing. Check installation.
+[25-Jul-2026 15:36:57 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[25-Jul-2026 15:36:57 America/New_York] PHPMailer files missing. Check installation.
+[25-Jul-2026 15:36:58 America/New_York] Password reset email sent successfully to: johnmachariamwangi123@gmail.com
+[27-Jul-2026 11:15:55 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[27-Jul-2026 11:15:55 America/New_York] PHPMailer files missing. Check installation.
+[27-Jul-2026 11:16:00 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[27-Jul-2026 11:16:00 America/New_York] PHPMailer files missing. Check installation.
+[27-Jul-2026 11:16:01 America/New_York] Password reset email sent successfully to: johnmachariamwangi123@gmail.com
+[27-Jul-2026 11:44:54 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[27-Jul-2026 11:44:54 America/New_York] PHPMailer files missing. Check installation.
+[27-Jul-2026 11:45:03 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[27-Jul-2026 11:45:03 America/New_York] PHPMailer files missing. Check installation.
+[27-Jul-2026 11:45:04 America/New_York] Password reset email sent successfully to: mwangimwangiscott09@gmail.com
+[27-Jul-2026 11:48:27 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[27-Jul-2026 11:48:27 America/New_York] PHPMailer files missing. Check installation.
+[27-Jul-2026 11:49:26 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[27-Jul-2026 11:49:26 America/New_York] PHPMailer files missing. Check installation.
+[27-Jul-2026 11:49:34 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[27-Jul-2026 11:49:34 America/New_York] PHPMailer files missing. Check installation.
+[27-Jul-2026 11:49:35 America/New_York] Password reset email sent successfully to: mwangiscott09@gmail.com
+[16-Aug-2026 07:35:33 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[16-Aug-2026 07:35:33 America/New_York] PHPMailer files missing. Check installation.
+[16-Aug-2026 07:35:37 America/New_York] PHPMailer not found at: /home/vol14_4/infinityfree.com/if0_41288555/htdocs/assembly/phpmailer/PHPMailer.php
+[16-Aug-2026 07:35:37 America/New_York] PHPMailer files missing. Check installation.
+[16-Aug-2026 07:35:37 America/New_York] Password reset email sent successfully to: johnmachariamwangi123@gmail.com
+[23-Sep-2026 18:50:17 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:51:25 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:51:51 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:51:52 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:52:35 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:52:44 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:52:45 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:52:45 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:52:46 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:52:47 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:52:47 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:12 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:20 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:21 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:21 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:21 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:22 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:22 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:22 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:22 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 18:54:23 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:00:01 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:00:04 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:00:05 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:20:46 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:20:51 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:20:52 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:20:52 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:20:52 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:20:53 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:20:53 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[23-Sep-2026 19:21:49 UTC] Database connection failed: SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo for sql208.infinityfree.com failed: No such host is known. 
+[25-Sep-2026 19:18:19 UTC] Database connection failed: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
